@@ -1,0 +1,93 @@
+{
+  "data": {
+    "user": {
+      "name": "Manish Tiwari",
+      "bio": "I am a Full Stack Developer. I am passionate about building digital products that improve everyday experiences for people. ",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46663132?u=38bd4bdc14ab87914e6504d74f65b328df3e45bf&v=4",
+      "location": "Uttar Pradesh, India",
+      "pinnedItems": {
+        "totalCount": 6,
+        "edges": [
+          {
+            "node": {
+              "name": "ai-saas",
+              "description": "Genius is an AI-based application that offers various functionalities, including AI chat, image generation, video generation, music generation, and code generation. This user-friendly platform is designed to make these features accessible to users seamlessly.",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 0 },
+              "url": "https://github.com/manishtmtmt/ai-saas",
+              "id": "R_kgDOKDwu2w",
+              "diskUsage": 962,
+              "primaryLanguage": { "name": "TypeScript", "color": "#3178c6" },
+              "homepageUrl": "https://genius-two.vercel.app"
+            }
+          },
+          {
+            "node": {
+              "name": "chat-app",
+              "description": "Chat App is a real-time chat application where you can do group chatting with people.",
+              "forkCount": 1,
+              "stargazers": { "totalCount": 3 },
+              "url": "https://github.com/manishtmtmt/chat-app",
+              "id": "R_kgDOIa1ESA",
+              "diskUsage": 2519,
+              "primaryLanguage": { "name": "JavaScript", "color": "#f1e05a" },
+              "homepageUrl": "https://chat-app-15798.web.app"
+            }
+          },
+          {
+            "node": {
+              "name": "alan_ai_news_app",
+              "description": "The Alan AI News App is a platform that leverages AI technology to provide users with quick access to news from various categories. The integration of voice accessibility enhances user experience and convenience, making it possible to interact with the app using voice commands.",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 0 },
+              "url": "https://github.com/manishtmtmt/alan_ai_news_app",
+              "id": "R_kgDOJCsAHA",
+              "diskUsage": 387,
+              "primaryLanguage": { "name": "JavaScript", "color": "#f1e05a" },
+              "homepageUrl": "https://alanainewsappmt.netlify.app/"
+            }
+          },
+          {
+            "node": {
+              "name": "Blog-App",
+              "description": "An online platform where you can post your daily activities, thoughts, any informative contents. It is very to easy to use. Now get ready to share your thoughts to world.",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 6 },
+              "url": "https://github.com/manishtmtmt/Blog-App",
+              "id": "R_kgDOH20IIg",
+              "diskUsage": 414,
+              "primaryLanguage": { "name": "JavaScript", "color": "#f1e05a" },
+              "homepageUrl": "https://manisht-first-blog-app.netlify.app/"
+            }
+          },
+          {
+            "node": {
+              "name": "tictactoe",
+              "description": "Introducing my newly created tic-tac-toe game! This classic two-player game has been given a modern twist with unique features and customizable options. Players aim to get three of their symbols in a row before their opponent does, on a 3x3 grid. Our game offers multiple difficulty levels and game modes, allowing players to challenge themselves.",
+              "forkCount": 0,
+              "stargazers": { "totalCount": 1 },
+              "url": "https://github.com/manishtmtmt/tictactoe",
+              "id": "R_kgDOIZH1sA",
+              "diskUsage": 90,
+              "primaryLanguage": { "name": "JavaScript", "color": "#f1e05a" },
+              "homepageUrl": "https://four-paper.surge.sh"
+            }
+          },
+          {
+            "node": {
+              "name": "quiet-trade-5439",
+              "description": "Travelocity Clone Travelocity.com is an online travel agency owned by Expedia Group. It has 12.4 million monthly unique visitors, making it the third most popular website owned by Expedia Group, after Expedia.com and Hotels.com We have tried to clone this website during our contruct week.",
+              "forkCount": 1,
+              "stargazers": { "totalCount": 1 },
+              "url": "https://github.com/manishtmtmt/quiet-trade-5439",
+              "id": "R_kgDOHrn8VQ",
+              "diskUsage": 600,
+              "primaryLanguage": { "name": "JavaScript", "color": "#f1e05a" },
+              "homepageUrl": "https://quite-trade-5439-travelocity.netlify.app/"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
